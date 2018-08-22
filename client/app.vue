@@ -10,13 +10,13 @@
 <script>
 import Header from './layout/header.vue'
 import Footer from './layout/footer.vue'
-// import Todo from './views/todo/index.vue'
+import Todo from './views/todo/index.vue'
 
 export default {
   components: {
     Header,
-    Footer
-    // Todo
+    Footer,
+    Todo
   }
 }
 </script>

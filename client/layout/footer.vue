@@ -7,7 +7,7 @@
   export default {
     data () {
       return {
-        author: 'Jomsou'
+        author: 'Zenquan'
       }
     }
   }
